@@ -1,0 +1,11 @@
+.container{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+a {
+  border: solid 2px rgb(240, 202, 202);
+  padding: 20px;
+  border-radius: 10px;
+  text-decoration: none;
+}
