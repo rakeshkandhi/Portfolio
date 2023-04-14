@@ -1,11 +1,7 @@
-.container{
-  list-style-type: none;
-  display: flex;
-  justify-content: space-around;
+*{
+  margin: 0;
+  padding: 0px;
 }
-a {
-  border: solid 2px rgb(240, 202, 202);
-  padding: 20px;
-  border-radius: 10px;
-  text-decoration: none;
+body{
+  background-image: linear-gradient(rgb(180, 8, 8),rgb(166, 77, 9));
 }
